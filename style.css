@@ -338,6 +338,7 @@ font-size: 22px;
 }
 
 .bxl-youtube{
+  padding-left: 19rem;
   bottom: 4rem;
   width: 170px;
   display: flex;
@@ -345,13 +346,12 @@ font-size: 22px;
   width: 40px;
   height: 40px;
   background: transparent;
-  border: .2rem solid var(--light-blue);
-  border-radius: 50%;
-  font-size: 20px;
-  color: var(--btn-blue);
+  font-size: 40px;
+  color: red;
 }
 
 .bxs-slideshow{
+  padding-left: 19rem;
   bottom: 4rem;
   width: 170px;
   display: flex;
@@ -359,8 +359,6 @@ font-size: 22px;
   width: 40px;
   height: 40px;
   background: transparent;
-  border: .2rem solid var(--light-blue);
-  border-radius: 50%;
-  font-size: 20px;
-  color: var(--btn-blue);
+  font-size: 30px;
+  color: rgb(30, 233, 30);
 }
